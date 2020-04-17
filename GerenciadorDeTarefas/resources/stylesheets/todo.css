@@ -24,6 +24,7 @@ div.todo {
 	background-color: white;
 }
 
+
 div.todo h2 {
 	color: #c00;
 }
@@ -48,10 +49,11 @@ div.todo h2 {
 .tarefa-item {
 	padding: 1em;
 	vertical-align: middle;
+	background-color: #eee ;
 }
 
 .tarefa-item:hover {
-	background-color: #eee;
+	background-color: #b2a143;
 }
 
 .tarefa-texto {
